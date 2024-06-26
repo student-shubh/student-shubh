@@ -9,7 +9,8 @@
 
 - 📫 How to reach me : **Shubh.123387@stu.upes.ac.in**
 
-- 📄 Know about my experiences [Participated in Global Game Jam 2024](Participated in Global Game Jam 2024)
+- 📄 Know about my experiences - (Participated in Global Game Jam 2024)
+                                - Developed **Jetha's Jam** within 48 Hrs with my teammates.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
