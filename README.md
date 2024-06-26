@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **Shubh.123387@stu.upes.ac.in**
+- 📫 How to reach me : **Shubh.123387@stu.upes.ac.in**
 
 - 📄 Know about my experiences [Participated in Global Game Jam 2024](Participated in Global Game Jam 2024)
 
